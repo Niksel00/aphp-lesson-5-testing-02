@@ -1,0 +1,10 @@
+{
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+        ,
+        "phpunit/phpunit": "^9.5"
+    },
+    "require": {
+        "phpunit/php-code-coverage": "^9.2"
+    }
+}
